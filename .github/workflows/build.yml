@@ -112,3 +112,4 @@ jobs:
           tag_name: ${{ github.event.inputs.tag }}
           files: "*.apk"
           generate_release_notes: true
+          
